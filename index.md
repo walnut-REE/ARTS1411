@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ARTS1411 ： Psychology of Interaction Design
 
 You can use the [editor on GitHub](https://github.com/walnut-REE/ARTS1411/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
